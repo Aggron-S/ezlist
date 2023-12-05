@@ -1,0 +1,9 @@
+﻿  FinalProject.cpp
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(154,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(155,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(167,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(168,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(170,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(181,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\FinalProject.cpp(182,20): warning C4305: '+=': truncation from 'double' to 'float'
+  Final Project.vcxproj -> C:\Desktop files\visual c++ program tests\C++ Try 2021\ALL LESSONS COMP PROG\Final Project\Final Project\Debug\Final Project.exe
